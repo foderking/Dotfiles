@@ -1,0 +1,17 @@
+vte-terminal {
+	padding: 20px;
+}
+
+window decoration {
+	margin: 0;
+	border: none;
+	padding: 0;
+}
+
+.xfce-panel {
+	background-color: rgba(146, 145, 129, 1.0);
+}
+
+* {
+	text-shadow: none;
+}
